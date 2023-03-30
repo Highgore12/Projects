@@ -1,3 +1,14 @@
 body {
-    background-color: crimson;
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main {
+    background-color: beige;
+}
+p{
+    padding: 40px;
+}
+button{
+    width: 60px;
+    padding-bottom: 10px;
 }
