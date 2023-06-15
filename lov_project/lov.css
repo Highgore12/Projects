@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to top, #fff, #187658);
+    background-repeat: no-repeat;}
+img {
+    height: 35vh;
+    width: 40vh;
+    border-radius: 20px;}
+
+.main_div{
+    margin: 25%;
+    width: 50%;
+    height: 450px;
+    background-color: #fff;
+    border-radius: 20px;}
+
+.inner_div{margin: 20px;}
+
+h1{margin: 30px;}
